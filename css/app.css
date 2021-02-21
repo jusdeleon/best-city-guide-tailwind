@@ -1,9 +1,5 @@
 @tailwind base;
 
-body {
-    font-family: 'Varela Round', sans-serif;
-}
-
 .content > * {
     margin-bottom: 1em;
 }
