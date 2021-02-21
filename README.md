@@ -2,5 +2,3 @@
 
 
 Tailwind Demo
-
-https://jd-best-city-guide.netlify.app
