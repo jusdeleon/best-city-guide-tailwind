@@ -1,8 +1,3 @@
 @tailwind base;
-
-.content > * {
-    margin-bottom: 1em;
-}
-
 @tailwind components;
 @tailwind utilities;
